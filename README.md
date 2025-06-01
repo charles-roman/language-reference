@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repo contains an overview of some fundamental features and rules of various programming languages. It includes syntax reference guides for the features along with their background and tips on implementation.
+This repo contains an overview of several fundamental features and rules of various programming languages. It includes syntax reference guides for the features along with their background and tips on implementation.
 
 ## Resources
 - C++
