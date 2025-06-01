@@ -7,6 +7,7 @@ This repo contains an overview of several fundamental features and rules of vari
 ## Resources
 - C++
   - [A Tour of C++, Third Ed.](https://www.stroustrup.com/tour3.html)
+  - [cppreference.com](https://cppreference.com/)
 - C
   - [The C Programming Language, Second Ed.](https://www.amazon.com/Programming-Language-PROGRAMMING-LANG-_p2-ebook/dp/B009ZUZ9FW?gQT=1)
 - Python
