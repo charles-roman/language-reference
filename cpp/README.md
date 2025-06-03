@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- Basics
-    - [Language / Language Support](basics/README.md)
+- [Basics](basics/README.md)
+    - [Language / Language Support](basics/language/README.md)
         - [Directives](basics/language/README.md#directives)
         - [Comments](https://cppreference.com/w/cpp/comments.html)
         - [Basic Concepts](basics/README.md)
@@ -51,7 +51,9 @@
     - [Rule of 0/3/5](classes/README.md#rule-of-0-3-5)
     - [Operator Overloading](classes/README.md#operator-overloading)
     - Initializer Lists
-    - [Subclasses](classes/README.md#subclasses)
+    - Concrete vs Abstract Types
+    - Class Hierarchy
+        - Base Class vs Subclass
     - [Objects](classes/README.md#objects)
     - [Templates](templates/README.md#classe-templates)
 
@@ -91,13 +93,15 @@
         - Stack
         - Queue
         - Priority Queue
+    - Allocators
 
 - [Algorithms](https://cppreference.com/w/cpp/algorithm.html)
+    - Predicates
 
 - [Ranges](https://cppreference.com/w/cpp/ranges.html)
 
 - [Utilities](https://cppreference.com/w/cpp/utility.html)
-    - [Function Objects]
+    - Function Objects
 
 - [Numerics](https://cppreference.com/w/cpp/numeric.html)
 
