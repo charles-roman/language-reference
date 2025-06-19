@@ -50,6 +50,7 @@
     - [Special Member Functions](classes/README.md#special-member-functions)
     - [Rule of 0/3/5](classes/README.md#rule-of-0-3-5)
     - [Operator Overloading](classes/README.md#operator-overloading)
+    - Custom Comparators
     - Initializer Lists
     - Concrete vs Abstract Types
     - Class Hierarchy
@@ -58,10 +59,9 @@
     - [Templates](templates/README.md#classe-templates)
 
 - [Templates](templates/README.md)
+    - Parameterized Types vs Operations
     - [Function Templates](templates/README.md#function-templates)
     - [Class Templates](templates/README.md#class-templates)
-        - Parameterized Types
-        - Parameterized Operations
     - Variadic Templates
 
 - [Concepts](concepts/README.md)
