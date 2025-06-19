@@ -39,6 +39,7 @@
             - floating point
             - pointer
             - boolean
+        - Narrowing
         - [Qualification Conversions](https://cppreference.com/w/cpp/language/implicit_cast.html#Qualification_conversions)
             - [Ordering](https://cppreference.com/w/cpp/language/cv.html#Conversions)
         - [Promotions](#promotions)
